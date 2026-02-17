@@ -1,2 +1,2 @@
 
- * https://anywhere.epam.com/api/search/jobs?sortBy=%3cabhi%3e
+ * https://target.com/api/search/jobs?sortBy=%3cfuzz%3e

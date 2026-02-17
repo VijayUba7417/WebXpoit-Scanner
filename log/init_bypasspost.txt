@@ -1,0 +1,11 @@
+
+ * https://sarathi.parivahan.gov.in/sarathiservice/checkLLReqForDLExp.do?licenceFromState=FUZZ>
+ * https://sarathi.parivahan.gov.in/SarathiReport/enabledrtoCount.do?state=FUZZ>
+ * https://sarathi.parivahan.gov.in/sarathiservice/getVillageOrTownList.do?subDistrict=FUZZ>
+ * https://sarathi.parivahan.gov.in/sarathiservice/validateCLServiceApplicant.do?clNumber=FUZZ>
+ * https://sarathi.parivahan.gov.in/sarathiservice/getRTOsForNewDSLAppl.do?state=FUZZ>
+ * https://sarathi.parivahan.gov.in/sarathiservice/getCovCatg.do?covToBeRemoved=FUZZ>
+ * https://sarathi.parivahan.gov.in/sarathiservice/chkOtherStateLicAllowed.do?licenceFromState=FUZZ>
+ * https://sarathi.parivahan.gov.in/sarathiservice/checkTypeOfCovForBadge.do?covToBeRemoved=FUZZ>
+ * https://news.cision.com/se/capitainer-ab?k=FUZZ>
+ * https://community.sailpoint.com/mpomh84452/api/2.0/ui/lang/ng-common?board.id=FUZZ>

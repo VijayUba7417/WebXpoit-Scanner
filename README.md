@@ -13,7 +13,7 @@ cd WebXploit-Scanner
 # Run the scanner
 python3 webxploit.py
 ```
-<img width="740" height="250" alt="image" src="https://github.com/user-attachments/assets/edfec6a1-2683-41df-98a7-20c816cf6058" />
+<img width="740" height="250" alt="image" src="https://github.com/user-attachments/assets/edfec6a1-2683-41df-98a7-20c816cf608" />
 
 Note: WebXploit requires a .txt file containing target URLs. For best results, use tools like ParamSpider or Waybackurls to gather endpoints. Use the FUZZ notation in your URLs to specify exactly where you want payloads to be injected.
 
@@ -31,7 +31,7 @@ Note: WebXploit requires a .txt file containing target URLs. For best results, u
 
   1.	Target Selection: Provide a text file containing the URLs you wish to analyze.
   2.	Payload Tuning: Choose parameter lengths and payloads based on the target environment's complexity.
-<img width="740" height="250" alt="image" src="https://github.com/user-attachments/assets/c145570f-2e9a-4e6b-87b8-4fc3a0f8beab" />
+<img width="740" height="250" alt="image" src="https://github.com/user-attachments/assets/c145570f-2e9a-4e6b-87b8-4fc3a0f8beb" />
 
 ## Burp Collaborator Integration
 For reliable RCE and SSRF testing, using a Collaborator link is essential:
